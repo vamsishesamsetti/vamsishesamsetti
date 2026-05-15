@@ -101,7 +101,7 @@
       <p>Real-time cricket scoring platform with custom React hooks, live/upcoming/finished match filtering, localStorage persistence, and skeleton loaders.</p>
       <p>
         <a href="https://cricket-pulse-two.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp;
-        <a href="https://github.com/vamsishesamsetti/live-cricket-score-app" target="_blank">📂 Repo</a>
+        <a href="https://github.com/vamsishesamsetti/CricketPulse" target="_blank">📂 Repo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
