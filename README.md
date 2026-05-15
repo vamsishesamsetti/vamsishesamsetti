@@ -97,11 +97,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏏 <a href="https://github.com/vamsishesamsetti/CricketPulse">CricketPulse</a></h3>
+      <h3>🏏 <a href="https://github.com/vamsishesamsetti/live-cricket-score-app">CricketPulse</a></h3>
       <p>Real-time cricket scoring platform with custom React hooks, live/upcoming/finished match filtering, localStorage persistence, and skeleton loaders.</p>
       <p>
         <a href="https://cricket-pulse-two.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp;
-        <a href="https://github.com/vamsishesamsetti/CricketPulse" target="_blank">📂 Repo</a>
+        <a href="https://github.com/vamsishesamsetti/live-cricket-score-app" target="_blank">📂 Repo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -112,10 +112,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/vamsishesamsetti/SmartBid">SmartBid</a></h3>
+      <h3>🔐 <a href="https://github.com/vamsishesamsetti/smartbid-auction">SmartBid</a></h3>
       <p>Secure auction platform with JWT auth, AES-256 encrypted bids, race-condition-safe transactional MySQL, and a full REST API lifecycle.</p>
       <p>
-        <a href="https://github.com/vamsishesamsetti/SmartBid" target="_blank">📂 Repo</a>
+        <a href="https://github.com/vamsishesamsetti/smartbid-auction" target="_blank">📂 Repo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -142,13 +142,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsishesamsetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsishesamsetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsishesamsetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsishesamsetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsishesamsetti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vamsishesamsetti&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
