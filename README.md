@@ -97,11 +97,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏏 <a href="https://github.com/vamsishesamsetti/live-cricket-score-app">CricketPulse</a></h3>
+      <h3>🏏 <a href="https://github.com/vamsishesamsetti/CricketPulse">CricketPulse</a></h3>
       <p>Real-time cricket scoring platform with custom React hooks, live/upcoming/finished match filtering, localStorage persistence, and skeleton loaders.</p>
       <p>
         <a href="https://cricket-pulse-two.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp;
-        <a href="https://github.com/vamsishesamsetti/live-cricket-score-app" target="_blank">📂 Repo</a>
+        <a href="https://github.com/vamsishesamsetti/CricketPulse" target="_blank">📂 Repo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -112,10 +112,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/vamsishesamsetti/smartbid-auction">SmartBid</a></h3>
+      <h3>🔐 <a href="https://github.com/vamsishesamsetti/SmartBid">SmartBid</a></h3>
       <p>Secure auction platform with JWT auth, AES-256 encrypted bids, race-condition-safe transactional MySQL, and a full REST API lifecycle.</p>
       <p>
-        <a href="https://github.com/vamsishesamsetti/smartbid-auction" target="_blank">📂 Repo</a>
+        <a href="https://github.com/vamsishesamsetti/SmartBid" target="_blank">📂 Repo</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
