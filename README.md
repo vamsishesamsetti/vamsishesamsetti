@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://vamsi-portfolio-vert.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-vamsi--portfolio--vert.vercel.app-3b82f6?style=flat" alt="Portfolio" />
+  <a href="https://vamsishesamsetti.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-vamsishesamsetti.dev-3b82f6?style=flat" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vamsishesamsetti" target="_blank">
